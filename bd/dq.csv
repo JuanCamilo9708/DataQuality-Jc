@@ -1,0 +1,8 @@
+Caracteristicas,Pesos,Puntuacion
+V.Aus_Col,10,0.9
+V.Aus_Df,35,1.0
+Obj_Num,15,0.85
+Bool_Cat,5,0.5
+Corr,10,1.0
+Corr_Nulo,10,1.0
+Outliers,15,0.5161290322580645
